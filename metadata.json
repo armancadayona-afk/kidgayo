@@ -1,0 +1,6 @@
+{
+  "name": "ApartmentListing - Boston Rentals",
+  "description": "Boston area rental marketplace and independent landlord management platform inspired by Avail.co. Search Boston properties, inquire, apply, sign leases, and manage manual payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
